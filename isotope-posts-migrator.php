@@ -11,7 +11,7 @@
  * @wordpress-plugin
  * Plugin Name:       Isotope Posts v2 Migrator
  * Plugin URI:        https://github.com/mandiwise/isotope-posts-migrator
- * Description:       If you're upgrading to v2+ of Isotope Posts from v1.X, you'll need to run this plugin first. Be sure to deactivate and delete this plugin before attempting to re-activate v2+ of Isotope Posts.
+ * Description:       If you're upgrading to v2+ of Isotope Posts from v1.X, you'll need to run this plugin first. Be sure to deactivate and delete this plugin before attempting to re-activate of Isotope Posts.
  * Version:           1.0
  * Author:            Mandi Wise
  * Author URI:        http://mandiwise.com
