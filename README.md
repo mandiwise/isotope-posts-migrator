@@ -4,7 +4,11 @@
 
 If you're upgrading to [v2+ of Isotope Posts](https://github.com/mandiwise/isotope-posts) from v1.X, you'll need to run this plugin first.
 
-To prepare your site for Isotope Posts v2+, simply install the migrator plugin and activate. Upon successful activation you'll see a message in the WordPress admin area saying that your site is now ready to be upgraded to Isotope Post v2+. Next, you'll deactivate and delete the migrator plugin, then ensure you have the most current version of Isotope Posts uploaded to your site, and finally, reactivate the Isotope Post plugin.
+To prepare your site for Isotope Posts v2+, simply install the migrator plugin and activate. 
+
+Upon successful activation you'll see a message in the WordPress admin area saying that your site is now ready to be upgraded to Isotope Post v2+.
+
+Next, you'll deactivate and delete the migrator plugin, then ensure you have the most current version of Isotope Posts uploaded to your site, and finally, reactivate the Isotope Posts plugin.
 
 **Please Note:**
 
